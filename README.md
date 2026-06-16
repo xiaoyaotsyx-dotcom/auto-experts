@@ -101,8 +101,8 @@ expert-panel/
 
 | Use Case · 使用场景 | License · 许可 |
 |------|---------|
-| Personal · 个人 | AGPLv3 ✅ Free · 免费 |
-| Commercial · 商用 | [Contact us · 联系我们](mailto:xiaoyao@aibook.online) |
+| Personal, non-commercial · 个人非商业 | AGPLv3 ✅ Free · 免费 |
+| Any company or commercial use · 任何企业/商用 | [Contact us · 联系我们](mailto:Walter.x@qq.com) |
 
 ---
 
